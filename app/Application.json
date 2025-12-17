@@ -1,0 +1,20 @@
+{
+  "applicationId" : "7efa455b-79a6-4c19-aeef-3a3174a4c615",
+  "applicationName" : "gitAppTest",
+  "sections" : [ {
+    "name" : "test",
+    "icon" : "Alert Circle",
+    "pageDefinitionId" : "3b87e207-5067-43ab-bcc4-721f0597948b",
+    "description" : "",
+    "sections" : [ ],
+    "accessRoles" : null,
+    "privileges" : null,
+    "isReferredPage" : false
+  } ],
+  "accessRoles" : [ ],
+  "tagIds" : [ ],
+  "applicationState" : "DRAFT",
+  "gitUrl" : "https://github.com/ShobhaBandigani/testGitRepo2",
+  "defaultBranch" : "main",
+  "applicationI18nFiles" : [ ]
+}

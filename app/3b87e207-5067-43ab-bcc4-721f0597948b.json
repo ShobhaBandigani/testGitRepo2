@@ -1,48 +1,66 @@
 {
-  "pageDefinitionId" : "3b87e207-5067-43ab-bcc4-721f0597948b",
-  "pageSchema" : {
-    "properties" : { },
-    "controlSchema" : {
-      "schema" : {
-        "type" : "object",
-        "properties" : {
-          "control_5" : {
-            "type" : "button",
-            "controlId" : "fb87bb77-dcbf-4d78-9b28-4c3eed60821f",
-            "accessRoles" : null,
-            "privileges" : null,
-            "styles" : {
-              "useComponentShadow" : false,
-              "useGreyBackground" : false,
-              "useInnerGreyBackground" : false
+  "pageDefinitionId": "3b87e207-5067-43ab-bcc4-721f0597948b",
+  "pageSchema": {
+    "properties": {},
+    "controlSchema": {
+      "schema": {
+        "type": "object",
+        "properties": {
+          "control_6": {
+            "type": "button",
+            "controlId": "7a70b92e-73c8-411f-a59a-76cd7db31fb9",
+            "accessRoles": null,
+            "privileges": null,
+            "styles": {
+              "useComponentShadow": false,
+              "useGreyBackground": false,
+              "useInnerGreyBackground": false
             },
-            "events" : [ ],
-            "controlData" : "Button",
-            "layoutSize" : null,
-            "buttonColorType" : "primary",
-            "icon" : "",
-            "iconPosition" : "left",
-            "shouldRenderHidden" : false
+            "events": [],
+            "controlData": "Button",
+            "layoutSize": null,
+            "buttonColorType": "primary",
+            "icon": "",
+            "iconPosition": "left",
+            "shouldRenderHidden": false
           },
-          "control_4" : {
-            "type" : "StandardIframeComponent",
-            "controlId" : "89a690e8-6ce7-44fd-ac72-496920cac8f6",
-            "accessRoles" : null,
-            "privileges" : null,
-            "styles" : {
-              "useComponentShadow" : false,
-              "useGreyBackground" : false,
-              "useInnerGreyBackground" : false
+          "control_5": {
+            "type": "button",
+            "controlId": "fb87bb77-dcbf-4d78-9b28-4c3eed60821f",
+            "accessRoles": null,
+            "privileges": null,
+            "styles": {
+              "useComponentShadow": false,
+              "useGreyBackground": false,
+              "useInnerGreyBackground": false
             },
-            "layoutSize" : null,
-            "pageName" : "/xicm/forward.do?url=/jsp/pages/main_frame.jsp&pageId=MY_TEAM_NAV-MY_TEAM_MEMBER_DETAILS",
-            "shouldRenderHidden" : false,
-            "controlKey" : "control_4"
+            "events": [],
+            "controlData": "Button",
+            "layoutSize": null,
+            "buttonColorType": "primary",
+            "icon": "",
+            "iconPosition": "left",
+            "shouldRenderHidden": false
+          },
+          "control_4": {
+            "type": "StandardIframeComponent",
+            "controlId": "89a690e8-6ce7-44fd-ac72-496920cac8f6",
+            "accessRoles": null,
+            "privileges": null,
+            "styles": {
+              "useComponentShadow": false,
+              "useGreyBackground": false,
+              "useInnerGreyBackground": false
+            },
+            "layoutSize": null,
+            "pageName": "/xicm/forward.do?url=/jsp/pages/main_frame.jsp&pageId=MY_TEAM_NAV-MY_TEAM_MEMBER_DETAILS",
+            "shouldRenderHidden": false,
+            "controlKey": "control_4"
           }
         }
       }
     }
   },
-  "title" : "Manager View",
-  "versionName" : "1.0"
+  "title": "Manager View",
+  "versionName": "1.0"
 }
